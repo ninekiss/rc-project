@@ -8,7 +8,7 @@ function App() {
           <img src="/logo.svg" className="logo" />
         </a>
       </div>
-      <h1>RC PROJECT</h1>
+      <h1>K100S</h1>
     </div>
   )
 }
